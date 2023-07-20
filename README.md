@@ -1,6 +1,4 @@
-# Rain Prediction in Australia
-
-![Australia Rain Prediction](rain_prediction_banner.png)
+# 🌧️ Rain Prediction in Australia
 
 This repository contains the code and resources for a machine learning project that aims to tackle rain prediction in Australia. The project utilizes historical weather data and various machine learning algorithms to forecast whether it will rain in different regions of Australia.
 
