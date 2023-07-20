@@ -53,7 +53,7 @@ Several machine learning algorithms are employed in this project to predict rain
 - Decision Trees
 - Logistic Regression
 - Support Vector Machine (SVM)
-- 
+
 ## Evaluation
 
 To evaluate our models, we used :
