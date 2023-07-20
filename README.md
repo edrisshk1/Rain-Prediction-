@@ -82,9 +82,9 @@ Contributions to this project are welcome! If you want to contribute, please fol
 ## Acknowledgements
 
 I would like to thank the following organizations for their contributions and the amazing tools provided to accomplish this project :
-- Coursera: This platform gave me the idea for the project and provided me with the tools needed for this project.
-- Cognitive Class AI: This platform provided me with the workspace and the processing power needed to train and evaluate the models
-- The contributors to scikit-learn’s development and maintenance
+- **Coursera**: This platform gave me the idea for the project and provided me with the tools needed for this project.
+- **Cognitive Class AI**: This platform provided me with the workspace and the processing power needed to train and evaluate the models
+- The contributors to **scikit-learn**’s development and maintenance
 
 ## License
 
