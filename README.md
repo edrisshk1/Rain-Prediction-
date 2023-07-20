@@ -13,6 +13,7 @@ This repository contains the code and resources for a machine learning project t
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
 - [License](#license)
 - [Contact](#contact)
 
@@ -53,6 +54,7 @@ Several machine learning algorithms are employed in this project to predict rain
 - Decision Trees
 - Logistic Regression
 - Support Vector Machine (SVM)
+- 
 ## Evaluation
 
 To evaluate our models, we used :
@@ -77,6 +79,13 @@ Contributions to this project are welcome! If you want to contribute, please fol
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes and push the branch to your fork.
 4. Submit a pull request, detailing the changes you made.
+
+## Acknowledgements
+
+I would like to thank the following organizations for their contributions and the amazing tools provided to accomplish this project :
+- Coursera: This platform gave me the idea for the project and provided me with the tools needed for this project.
+- Cognitive Class AI: This platform provided me with the workspace and the processing power needed to train and evaluate the models
+- The contributors to scikit-learn’s development and maintenance
 
 ## License
 
