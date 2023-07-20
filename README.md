@@ -15,7 +15,6 @@ This repository contains the code and resources for a machine learning project t
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
